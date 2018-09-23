@@ -1,4 +1,4 @@
-package com.github.patterchon.squash;
+package com.github.patterchon.squash.start;
 
 public class Main {
 
